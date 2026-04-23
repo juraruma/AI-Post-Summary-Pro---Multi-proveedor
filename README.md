@@ -46,6 +46,10 @@ Ideal for content-heavy WordPress sites, blogs, and news portals
 that want to offer readers a quick AI-generated summary at the top 
 of each post — with full control over tone, length, and style.
 
+## Screenshots
+<img width="1738" height="649" alt="AI Post Summary Pro 2" src="https://github.com/user-attachments/assets/11b50eda-27f7-4c6b-ad65-4384563bb1b5" />
+<img width="1737" height="559" alt="AI Post Summary Pro 1" src="https://github.com/user-attachments/assets/849c1fe7-743a-459f-8e4e-924fb11bf826" />
+
 ## License
 
 GPL v2 or later
